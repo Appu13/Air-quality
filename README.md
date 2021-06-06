@@ -104,3 +104,36 @@ Using the mutate function we can just search the dataframe for values which are 
 
 
 We save the data into a new csv file called cleaned-data.csv
+
+#### Table of averages
+```{r}
+avg_tab <- aggregate(no2~State, data = data, FUN = mean) %>%
+  merge(avg_tab, by ="State", all = T)
+```
+we are just creating an aggregate and then merging with the avg_tab
+finally we save the file 
+
+
+
+
+## Data visualization
+So far only basic visualization has been done ie the states with highest/lowest values in different categories
+
+```{r}
+# Top values
+
+# Using the slice function
+slice_max(data, n = 5, so2) %>%
+  ggplot(., aes(x= State, y = so2, fill = State)) +
+  geom_bar(stat = 'identity') 
+
+# Using the top_n function
+top_n(data, n=5, no2) %>%
+  ggplot(., aes(x= State, y = no2, fill = State)) +
+  geom_bar(stat = 'identity') 
+  
+# Bottom data
+slice_min(data, n = 5, so2) %>%
+  ggplot(., aes(x = State, y = so2, fill = State)) +
+  geom_bar(stat = 'identity')
+```
