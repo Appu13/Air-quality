@@ -1,6 +1,6 @@
-#This is an about the project
+This is an about the project
 
-The data set is available in the data folder and all the codes in the src folder
+The data set is available in kaggle and  all the codes in the src folder
 Here we will give a detailed expiation about each of the codes and try to make it as informative as possible
 
 ## Library loader
