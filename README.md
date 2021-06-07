@@ -116,6 +116,7 @@ finally we save the file
 
 
 
+
 ## Data visualization
 So far only basic visualization has been done ie the states with highest/lowest values in different categories
 
@@ -137,3 +138,33 @@ slice_min(data, n = 5, so2) %>%
   ggplot(., aes(x = State, y = so2, fill = State)) +
   geom_bar(stat = 'identity')
 ```
+
+
+
+
+## Scoring 
+The objective of this is to create a kind of scoring system for each state relative to each other.
+
+This has two steps
+
+#### convert all of them to a realtive scale
+Finding the summary of the dataset we find that range of each of the categories vary differently so we need to bring  them to a similar relative scale(ie that is we score the categories on a comparative basis that is the state with the highest value will have a score closer to 10 and lowest will have value closer to 1)
+
+The formula for this conversion is as follows
+NewValue = (((OldValue - OldMin) * (NewMax - NewMin)) / (OldMax - OldMin)) + NewMin
+
+R has a function to do this calculations so we will use that, we loop through the different column names and then apply the function on each column and store the value in a new variable realtive.data
+
+```{r}
+relative.data <- data.frame(data)
+cols = c("no2","so2","spm","rspm")
+
+  for (name in cols){
+    relative.data[name] <- rescale(data[,name], to = c(1,10))
+  }
+  
+```
+
+
+
+
