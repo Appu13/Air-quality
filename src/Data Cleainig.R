@@ -93,7 +93,7 @@ write.csv(final,fileName)
 
 # Getting the averages and merging them into one table based on state
 
-avg_tab <- aggregate(so2~State,data = data, FUN = mean)
+avg_tab <- aggregate(so2~State,data = data, FUN = avg) 
 
 avg_tab <- aggregate(no2~State, data = data, FUN = mean) %>%
   merge(avg_tab, by ="State", all = T)
@@ -104,6 +104,11 @@ avg_tab <- aggregate(spm~State, data = data, FUN = mean) %>%
 avg_tab <- aggregate(rspm~State, data = data, FUN = mean) %>%
   merge(avg_tab, by = "State", all = T)
 
+# Rounding off
+dat <- avg_tab %>% mutate_at(vars(spm,rspm,no2,so2),funs(round(.,3)))
+
+
 # Saving the data
-filename = paste(path,'Table-of-Averages.csv',sep='')
-write.csv(avg_tab,filename)
+path = "E:\\Projects\\Air Quality\\Data"
+filename = paste(path,'Final-Data.csv',sep='')
+write.csv(dat,filename)
