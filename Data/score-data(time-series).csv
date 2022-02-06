@@ -1,0 +1,727 @@
+"","year","State","type","spm","rspm","no2","Score"
+"1",1987,"Bihar","Industrial",434.364,123.705,41.145,0.723
+"2",1987,"Bihar","Residential",166.286,123.705,22.557,0.38
+"3",1987,"Delhi","Industrial",590.688,196.64,19.238,0.903
+"4",1987,"Delhi","Residential",465.25,196.64,17.625,0.763
+"5",1987,"Goa","Industrial",111.584,61.213,11.3,0.219
+"6",1987,"Gujarat","Industrial",203.321,98.245,31.393,0.419
+"7",1987,"Gujarat","Residential",277,98.245,24.584,0.476
+"8",1987,"Haryana","Industrial",392.816,149.861,18.382,0.642
+"9",1987,"Haryana","Residential",312.971,149.861,19.871,0.56
+"10",1987,"Himachal Pradesh","Residential",303.75,91.87,13.659,0.465
+"11",1987,"Himachal Pradesh","Sensitive",151.5,91.87,13.659,0.301
+"12",1987,"Karnataka","Industrial",98.421,79.372,10.727,0.224
+"13",1987,"Karnataka","Residential",39.444,79.372,6.434,0.149
+"14",1987,"Kerala","Industrial",84.42,50.636,2.9,0.154
+"15",1987,"Maharashtra","Industrial",205.442,101.48,23.925,0.401
+"16",1987,"Maharashtra","Residential",234.504,101.48,21.933,0.426
+"17",1987,"Odisha","Industrial",218,83.62,16.9,0.374
+"18",1987,"Odisha","Residential",167.61,83.62,16.9,0.32
+"19",1987,"Punjab","Industrial",263,173.494,28.086,0.552
+"20",1987,"Punjab","Residential",461.85,173.494,28.086,0.765
+"21",1987,"Rajasthan","Industrial",174.318,142.017,66.615,0.537
+"22",1987,"Rajasthan","Residential",152.316,142.017,40.059,0.435
+"23",1987,"Rajasthan","Sensitive",111.1,142.017,53.683,0.431
+"24",1987,"Tamil Nadu","Industrial",166.786,66.586,1.007,0.256
+"25",1987,"Tamil Nadu","Residential",129.75,66.586,1.075,0.215
+"26",1987,"Uttar Pradesh","Industrial",388.52,176.952,24.734,0.682
+"27",1987,"Uttar Pradesh","Residential",359.909,176.952,10.007,0.606
+"28",1987,"Uttar Pradesh","Sensitive",282.167,176.952,19.075,0.55
+"29",1987,"West Bengal","Industrial",372.638,115.04,56.822,0.694
+"30",1987,"West Bengal","Residential",103.909,115.04,17.836,0.289
+"31",1988,"Bihar","Industrial Area",406.087,123.705,24.113,0.643
+"32",1988,"Bihar","Residential, Rural and other Areas",277.75,123.705,17.775,0.485
+"33",1988,"Delhi","Industrial Area",363.058,196.64,37.795,0.713
+"34",1988,"Delhi","Residential, Rural and other Areas",293.623,196.64,38.927,0.641
+"35",1988,"Goa","Industrial Area",163,61.213,15.717,0.287
+"36",1988,"Gujarat","Industrial Area",214.8,98.245,32.046,0.433
+"37",1988,"Gujarat","Residential, Rural and other Areas",298.655,98.245,32.309,0.522
+"38",1988,"Haryana","Industrial Area",334.772,149.861,12.708,0.561
+"39",1988,"Haryana","Residential, Rural and other Areas",306.272,149.861,11.033,0.526
+"40",1988,"Himachal Pradesh","Residential, Rural and other Areas",344.5,91.87,15.447,0.513
+"41",1988,"Himachal Pradesh","Sensitive",185.75,91.87,14.139,0.339
+"42",1988,"Karnataka","Industrial Area",113.4,79.372,10.653,0.241
+"43",1988,"Karnataka","Residential, Rural and other Areas",99.6,79.372,11.5,0.229
+"44",1988,"Kerala","Industrial Area",95.941,50.636,14.584,0.201
+"45",1988,"Madhya Pradesh","Industrial Area",140.4,114.718,7,0.296
+"46",1988,"Madhya Pradesh","Residential, Rural and other Areas",296.875,114.718,9.713,0.472
+"47",1988,"Maharashtra","Industrial Area",206.899,101.48,29.717,0.419
+"48",1988,"Maharashtra","Residential, Rural and other Areas",211.649,101.48,35.483,0.441
+"49",1988,"Odisha","Industrial Area",228.75,83.62,13.725,0.377
+"50",1988,"Odisha","Residential, Rural and other Areas",114.273,83.62,12.045,0.249
+"51",1988,"Puducherry","Industrial Area",87.2,43.418,32.2,0.238
+"52",1988,"Puducherry","Residential, Rural and other Areas",111.615,43.418,13.746,0.207
+"53",1988,"Punjab","Industrial Area",344.526,173.494,25.692,0.632
+"54",1988,"Punjab","Residential, Rural and other Areas",445.273,173.494,28.486,0.749
+"55",1988,"Rajasthan","Industrial Area",211.521,142.017,85.295,0.634
+"56",1988,"Rajasthan","Residential, Rural and other Areas",229.203,142.017,60.245,0.578
+"57",1988,"Rajasthan","Sensitive",162.067,142.017,59.327,0.504
+"58",1988,"Tamil Nadu","Industrial Area",133.758,66.586,11.512,0.251
+"59",1988,"Tamil Nadu","Residential, Rural and other Areas",118.067,66.586,11.97,0.234
+"60",1988,"Uttar Pradesh","Industrial Area",404.606,176.952,25.299,0.702
+"61",1988,"Uttar Pradesh","Residential, Rural and other Areas",439,176.952,10.254,0.693
+"62",1988,"Uttar Pradesh","Sensitive",303.2,176.952,13.38,0.556
+"63",1988,"West Bengal","Industrial Area",363.583,115.04,79.31,0.753
+"64",2003,"Delhi","Industrial Area",373.479,153.669,39.632,0.683
+"65",2003,"Delhi","Residential, Rural and other Areas",376.252,165.294,46.235,0.718
+"66",2003,"Madhya Pradesh","Industrial Area",0,0,0,0
+"67",2003,"Madhya Pradesh","Residential, Rural and other Areas",0,0,0,0
+"68",2003,"Maharashtra","Industrial Area",190.824,101.48,18.929,0.37
+"69",2003,"Maharashtra","Residential, Rural and other Areas",182.144,101.48,18.85,0.36
+"70",2003,"Nagaland","Residential, Rural and other Areas",137.514,74.418,8.947,0.254
+"71",2003,"Punjab","Industrial Area",244.919,241.78,33.487,0.622
+"72",2003,"Punjab","Residential, Rural and other Areas",244.919,217.689,39.951,0.615
+"73",2003,"Rajasthan","Industrial Area",311.698,142.017,14.917,0.532
+"74",2003,"Rajasthan","Residential, Rural and other Areas",366.005,142.017,14.25,0.588
+"75",2004,"Andhra Pradesh","Industrial Area",190.816,86.721,36.879,0.407
+"76",2004,"Andhra Pradesh","Residential, Rural and other Areas",165.474,84.783,28.16,0.352
+"77",2004,"Andhra Pradesh","Sensitive Area",116.857,79.4,31.1,0.303
+"78",2004,"Assam","Residential, Rural and other Areas",153.355,197.101,14.31,0.418
+"79",2004,"Bihar","Residential, Rural and other Areas",156.005,80.483,24.93,0.328
+"80",2004,"Chandigarh","Industrial Area",272.08,133.8,37.053,0.545
+"81",2004,"Chandigarh","Residential, Rural and other Areas",162.839,99.863,25.988,0.359
+"82",2004,"Chhattisgarh","Residential, Rural and other Areas",185.894,152.913,20.559,0.425
+"83",2004,"Delhi","Industrial Area",357.56,137.554,53.489,0.689
+"84",2004,"Delhi","Residential, Rural and other Areas",341.254,136.646,53.489,0.671
+"85",2004,"Goa","Industrial Area",156.093,53.452,10.261,0.255
+"86",2004,"Goa","Residential, Rural and other Areas",130.544,58.952,11.48,0.237
+"87",2004,"Gujarat","Industrial Area",225.01,155.664,28.992,0.496
+"88",2004,"Gujarat","Residential, Rural and other Areas",155.056,126.316,26.649,0.382
+"89",2004,"Haryana","Industrial Area",241.102,136.772,23.041,0.475
+"90",2004,"Haryana","Residential, Rural and other Areas",251.325,152.008,21.328,0.496
+"91",2004,"Himachal Pradesh","Industrial Area",327.461,91.87,10.658,0.481
+"92",2004,"Himachal Pradesh","Residential, Rural and other Areas",163.188,91.87,13.93,0.315
+"93",2004,"Himachal Pradesh","Sensitive Area",47.873,91.87,10.953,0.182
+"94",2004,"Jharkhand","Industrial Area",297.555,172.792,57.771,0.678
+"95",2004,"Jharkhand","Residential, Rural and other Areas",216.115,129.281,55.383,0.535
+"96",2004,"Karnataka","Industrial Area",120.217,61.821,38.194,0.309
+"97",2004,"Karnataka","Residential, Rural and other Areas",136.803,69.635,41.91,0.346
+"98",2004,"Karnataka","Sensitive Area",131.303,57.557,50,0.35
+"99",2004,"Madhya Pradesh","Industrial Area",205.902,107.91,20.698,0.399
+"100",2004,"Madhya Pradesh","Residential, Rural and other Areas",147.894,81.969,17.19,0.298
+"101",2004,"Maharashtra","Industrial Area",161.575,91.626,27.834,0.356
+"102",2004,"Maharashtra","Residential, Rural and other Areas",143.536,137.014,30.337,0.393
+"103",2004,"Meghalaya","Residential, Rural and other Areas",65.25,54.206,10.571,0.16
+"104",2004,"Odisha","Industrial Area",166.024,82.3,12.396,0.303
+"105",2004,"Odisha","Residential, Rural and other Areas",125.723,67.93,10.503,0.239
+"106",2004,"Puducherry","Industrial Area",68.258,68.918,21.289,0.213
+"107",2004,"Puducherry","Residential, Rural and other Areas",51.378,43.835,15.596,0.151
+"108",2004,"Punjab","Industrial Area",180.823,223.483,33.634,0.534
+"109",2004,"Punjab","Residential, Rural and other Areas",173.776,243.507,40.45,0.568
+"110",2004,"Rajasthan","Industrial Area",268.929,115.025,23.796,0.482
+"111",2004,"Rajasthan","Residential, Rural and other Areas",285.347,106.314,30.029,0.509
+"112",2004,"Tamil Nadu","Industrial Area",168.695,58.969,25.065,0.319
+"113",2004,"Tamil Nadu","Residential, Rural and other Areas",116.628,45.073,21.079,0.236
+"114",2004,"Uttar Pradesh","Industrial Area",164.529,151.49,28.079,0.424
+"115",2004,"Uttar Pradesh","Residential, Rural and other Areas",212.338,158.895,22.47,0.466
+"116",2004,"Uttarakhand","Residential, Rural and other Areas",273.141,145.696,25.073,0.525
+"117",2004,"West Bengal","Industrial Area",205.98,123.892,57.284,0.524
+"118",2004,"West Bengal","Residential, Rural and other Areas",152.149,144.01,64.214,0.508
+"119",2005,"Andhra Pradesh","Industrial Areas",234.281,80.594,27.934,0.42
+"120",2005,"Andhra Pradesh","Residential and others",218.465,80.218,31.809,0.415
+"121",2005,"Andhra Pradesh","Sensitive Areas",100.077,48.731,18.527,0.215
+"122",2005,"Assam","Residential and others",187.215,111.227,17.315,0.372
+"123",2005,"Bihar","Residential and others",266.97,103.388,34.444,0.5
+"124",2005,"Chandigarh","Industrial Areas",296.661,117.898,19.904,0.503
+"125",2005,"Chandigarh","Residential and others",207.886,88.82,14.824,0.362
+"126",2005,"Chhattisgarh","Industrial Areas",318.265,208.735,34.252,0.668
+"127",2005,"Chhattisgarh","Residential and others",211.351,111.67,24.826,0.421
+"128",2005,"Delhi","Industrial Areas",390.045,170.737,43.533,0.731
+"129",2005,"Delhi","Residential and others",346.256,130.162,51.409,0.663
+"130",2005,"Goa","Industrial Areas",168.471,54.063,13.082,0.278
+"131",2005,"Goa","Residential and others",104.824,56.12,13.217,0.212
+"132",2005,"Gujarat","Industrial Areas",282.443,147.285,31.022,0.554
+"133",2005,"Gujarat","Residential and others",202.102,109.301,25.08,0.41
+"134",2005,"Haryana","Industrial Areas",343.607,157.911,25.335,0.614
+"135",2005,"Haryana","Residential and others",251.45,112.78,21.971,0.457
+"136",2005,"Himachal Pradesh","Industrial Areas",272.76,91.87,15.66,0.437
+"137",2005,"Himachal Pradesh","Residential and others",133.359,66.627,17.03,0.265
+"138",2005,"Himachal Pradesh","Sensitive Areas",59.329,29.041,13.577,0.135
+"139",2005,"Jharkhand","Industrial Areas",296.971,147.932,50.44,0.629
+"140",2005,"Jharkhand","Residential and others",221.97,119.75,45.802,0.503
+"141",2005,"Karnataka","Industrial Areas",106.907,53.513,35.461,0.278
+"142",2005,"Karnataka","Residential and others",246.045,90.628,20.991,0.423
+"143",2005,"Karnataka","Sensitive Areas",126.426,56.208,41.566,0.319
+"144",2005,"Kerala","Industrial Areas",113.569,79.163,15.029,0.252
+"145",2005,"Kerala","Residential and others",85.849,60.182,20.124,0.216
+"146",2005,"Madhya Pradesh","Industrial Areas",225.012,125.268,15.065,0.422
+"147",2005,"Madhya Pradesh","Residential and others",179.305,86.563,20.148,0.346
+"148",2005,"Maharashtra","Industrial Areas",221.824,99.339,32.4,0.443
+"149",2005,"Maharashtra","Residential and others",214.438,93.488,27.908,0.414
+"150",2005,"Maharashtra","Sensitive Areas",205.256,101.48,21.086,0.392
+"151",2005,"Mizoram","Residential and others",93.587,27.856,6.682,0.15
+"152",2005,"Nagaland","Residential and others",153.86,79.817,11.053,0.283
+"153",2005,"Odisha","Industrial Areas",177.51,86.392,14.999,0.328
+"154",2005,"Odisha","Residential and others",140.953,72.456,15.205,0.274
+"155",2005,"Puducherry","Industrial Areas",85.966,56.742,16.746,0.205
+"156",2005,"Puducherry","Residential and others",77.854,47.602,13.55,0.176
+"157",2005,"Punjab","Industrial Areas",244.752,225.133,33.355,0.604
+"158",2005,"Punjab","Residential and others",232.909,198.269,31.513,0.557
+"159",2005,"Rajasthan","Industrial Areas",266.231,105.983,24.255,0.471
+"160",2005,"Rajasthan","Residential and others",287.042,104.902,25.562,0.496
+"161",2005,"Tamil Nadu","Industrial Areas",136.385,62.322,23.543,0.284
+"162",2005,"Tamil Nadu","Residential and others",105.821,48.84,26.85,0.246
+"163",2005,"Uttar Pradesh","Industrial Areas",382.18,182.485,24.176,0.678
+"164",2005,"Uttar Pradesh","Residential and others",364.932,167.102,24.917,0.645
+"165",2005,"Uttar Pradesh","Sensitive Areas",366.312,175.165,28.335,0.665
+"166",2005,"Uttaranchal","Residential and others",374.299,152.862,26.039,0.645
+"167",2005,"West Bengal","Industrial Areas",254.151,118.893,54.792,0.562
+"168",2005,"West Bengal","Residential and others",222.717,122.327,50.485,0.52
+"169",2006,"Andhra Pradesh","Industrial Areas",232.417,91.362,30.43,0.437
+"170",2006,"Andhra Pradesh","Residential and others",208.373,90.935,28.566,0.406
+"171",2006,"Andhra Pradesh","Sensitive Areas",134.856,59.544,19.986,0.268
+"172",2006,"Assam","Residential and others",164.357,94.924,16.184,0.326
+"173",2006,"Bihar","Residential and others",291.935,111.23,39.41,0.549
+"174",2006,"Chandigarh","Industrial Areas",289.66,137.487,18.177,0.512
+"175",2006,"Chandigarh","Residential and others",202.333,96.394,14.797,0.364
+"176",2006,"Chhattisgarh","Industrial Areas",277.397,175.106,32.055,0.582
+"177",2006,"Chhattisgarh","Residential and others",201.006,119.246,24.604,0.417
+"178",2006,"Delhi","Industrial Areas",449.335,182.887,45.279,0.812
+"179",2006,"Delhi","Residential and others",400.559,157.541,47.143,0.738
+"180",2006,"Goa","Industrial Areas",122.918,50.452,11.731,0.221
+"181",2006,"Goa","Residential and others",97.841,48.61,11.828,0.193
+"182",2006,"Gujarat","Industrial Areas",240.25,133.424,28.931,0.488
+"183",2006,"Gujarat","Residential and others",170.293,100.82,23.432,0.361
+"184",2006,"Haryana","Industrial Areas",311.26,151.751,26.152,0.575
+"185",2006,"Haryana","Residential and others",249.115,144.096,18.06,0.476
+"186",2006,"Himachal Pradesh","Industrial Areas",365.483,105.374,14.896,0.549
+"187",2006,"Himachal Pradesh","Residential and others",156.101,82.588,16.856,0.306
+"188",2006,"Himachal Pradesh","Sensitive Areas",89.8,41.228,11.87,0.176
+"189",2006,"Jharkhand","Industrial Areas",277.27,152.287,52.474,0.619
+"190",2006,"Jharkhand","Residential and others",222.312,139.312,55.95,0.555
+"191",2006,"Karnataka","Industrial Areas",159.964,63.438,26.449,0.319
+"192",2006,"Karnataka","Residential and others",170.306,59.535,23.726,0.317
+"193",2006,"Karnataka","Sensitive Areas",176.912,65.888,35.125,0.366
+"194",2006,"Kerala","Industrial Areas",112.831,78.185,14.262,0.248
+"195",2006,"Kerala","Residential and others",77.301,56.975,19.623,0.202
+"196",2006,"Madhya Pradesh","Industrial Areas",213.972,125.33,14.511,0.408
+"197",2006,"Madhya Pradesh","Residential and others",176.33,93.543,17.719,0.343
+"198",2006,"Madhya Pradesh","Sensitive Areas",128.133,57.356,13.864,0.242
+"199",2006,"Maharashtra","Industrial Areas",190.778,87.139,32.127,0.395
+"200",2006,"Maharashtra","Residential and others",204.56,87.719,27.588,0.397
+"201",2006,"Maharashtra","Sensitive Areas",155.258,74.293,14.923,0.291
+"202",2006,"Meghalaya","Residential and others",77.58,60.875,11.826,0.184
+"203",2006,"Mizoram","Residential and others",95.968,38.858,9.53,0.173
+"204",2006,"Nagaland","Residential and others",134.618,72.986,14.39,0.265
+"205",2006,"Odisha","Industrial Areas",174.715,85.025,15.487,0.325
+"206",2006,"Odisha","Residential and others",164.036,75.274,16.282,0.305
+"207",2006,"Puducherry","Industrial Areas",110.695,55.499,11.596,0.214
+"208",2006,"Puducherry","Residential and others",116.597,46.561,11.316,0.209
+"209",2006,"Punjab","Industrial Areas",252.721,205.601,32.088,0.587
+"210",2006,"Punjab","Residential and others",248.568,199.871,30.734,0.573
+"211",2006,"Rajasthan","Industrial Areas",317.094,132.021,24.069,0.553
+"212",2006,"Rajasthan","Residential and others",298.062,117.286,26.952,0.525
+"213",2006,"Tamil Nadu","Industrial Areas",143.648,68.702,25.285,0.304
+"214",2006,"Tamil Nadu","Residential and others",99.12,50.006,26.136,0.238
+"215",2006,"Uttar Pradesh","Industrial Areas",386.295,178.072,27.028,0.687
+"216",2006,"Uttar Pradesh","Residential and others",365.437,169.048,25.072,0.648
+"217",2006,"Uttar Pradesh","Sensitive Areas",402.867,198.925,24.624,0.719
+"218",2006,"Uttaranchal","Residential and others",266.845,120.394,27.907,0.5
+"219",2006,"West Bengal","Industrial Areas",269.491,124.212,61.093,0.603
+"220",2006,"West Bengal","Residential and others",193.959,100.662,52.838,0.472
+"221",2007,"Andhra Pradesh","Industrial Areas",231.814,89.613,31.883,0.439
+"222",2007,"Andhra Pradesh","Residential and others",205.002,85.921,27.01,0.392
+"223",2007,"Andhra Pradesh","Sensitive Areas",128.524,53.13,19.179,0.252
+"224",2007,"Assam","Residential and others",136.158,84.858,14.173,0.28
+"225",2007,"Bihar","Residential and others",294.865,116.362,41.44,0.564
+"226",2007,"Chandigarh","Industrial Areas",290.197,132.875,20.823,0.515
+"227",2007,"Chandigarh","Residential and others",201.483,94.423,14.411,0.36
+"228",2007,"Chhattisgarh","Industrial Areas",279.747,169.236,31.834,0.577
+"229",2007,"Chhattisgarh","Residential and others",201.237,104.5,24.295,0.401
+"230",2007,"Dadra & Nagar Haveli","Industrial Areas",247.5,105.75,18.887,0.436
+"231",2007,"Dadra & Nagar Haveli","Residential and others",173.889,74.333,18.889,0.323
+"232",2007,"Daman & Diu","Industrial Areas",255.5,109.25,19.2,0.449
+"233",2007,"Daman & Diu","Residential and others",178,75.875,17.663,0.326
+"234",2007,"Delhi","Industrial Areas",431.679,193.418,51.373,0.822
+"235",2007,"Delhi","Residential and others",365.925,169.826,47.437,0.715
+"236",2007,"Goa","Industrial Areas",121.681,50.827,14.077,0.227
+"237",2007,"Goa","Residential and others",105.327,49.901,12.307,0.203
+"238",2007,"Gujarat","Industrial Areas",241.216,113.716,29.245,0.469
+"239",2007,"Gujarat","Residential and others",169.691,82.534,22.614,0.339
+"240",2007,"Haryana","Industrial Areas",181.67,103.07,29.47,0.393
+"241",2007,"Haryana","Residential and others",200.564,120.141,12.312,0.381
+"242",2007,"Himachal Pradesh","Industrial Areas",304.249,109.649,12.926,0.482
+"243",2007,"Himachal Pradesh","Residential and others",128.362,72.612,14.151,0.257
+"244",2007,"Himachal Pradesh","Sensitive Areas",91.462,46.124,11.108,0.181
+"245",2007,"Jharkhand","Industrial Areas",243.71,160.63,50.526,0.586
+"246",2007,"Jharkhand","Residential and others",262.928,124.105,47.701,0.558
+"247",2007,"Karnataka","Industrial Areas",171.421,70.736,24.124,0.332
+"248",2007,"Karnataka","Residential and others",195.148,81.76,24.262,0.369
+"249",2007,"Karnataka","Sensitive Areas",198.881,67.548,38.473,0.401
+"250",2007,"Kerala","Industrial Areas",85.223,50.738,13.41,0.186
+"251",2007,"Kerala","Residential and others",75.5,52.191,19.362,0.195
+"252",2007,"Madhya Pradesh","Industrial Areas",225.933,128.077,16.916,0.431
+"253",2007,"Madhya Pradesh","Residential and others",218.41,101.006,17.949,0.397
+"254",2007,"Madhya Pradesh","Sensitive Areas",234.006,111.279,15.092,0.416
+"255",2007,"Maharashtra","Industrial Areas",198.242,95.825,31.81,0.412
+"256",2007,"Maharashtra","Residential and others",207.998,90.096,29.002,0.407
+"257",2007,"Maharashtra","Sensitive Areas",135.233,62.78,17.686,0.265
+"258",2007,"Manipur","Residential and others",130.179,64.679,20.538,0.27
+"259",2007,"Meghalaya","Residential and others",79.761,65.391,12.046,0.192
+"260",2007,"Mizoram","Residential and others",86.115,39.7,7.481,0.157
+"261",2007,"Nagaland","Residential and others",124.625,67.442,14.083,0.248
+"262",2007,"Odisha","Industrial Areas",182.238,86.417,15.196,0.334
+"263",2007,"Odisha","Residential and others",161.607,73.121,15.958,0.299
+"264",2007,"Puducherry","Industrial Areas",84.83,51.212,10.644,0.178
+"265",2007,"Puducherry","Residential and others",78.258,48.269,10.324,0.167
+"266",2007,"Punjab","Industrial Areas",250.931,200.26,32.785,0.582
+"267",2007,"Punjab","Residential and others",254.16,183.633,31.42,0.563
+"268",2007,"Rajasthan","Industrial Areas",313.458,125.298,24.792,0.544
+"269",2007,"Rajasthan","Residential and others",280.684,109.954,25.069,0.493
+"270",2007,"Sikkim","Residential and others",75,32,26.8,0.196
+"271",2007,"Tamil Nadu","Industrial Areas",166.168,77.113,22.124,0.328
+"272",2007,"Tamil Nadu","Residential and others",104.224,55.327,21.588,0.236
+"273",2007,"Uttar Pradesh","Industrial Areas",397.724,176.523,27.202,0.698
+"274",2007,"Uttar Pradesh","Residential and others",398.339,162.897,28.279,0.686
+"275",2007,"Uttar Pradesh","Sensitive Areas",369.744,184.699,25.887,0.672
+"276",2007,"Uttaranchal","Industrial Areas",187.5,77.929,21.814,0.351
+"277",2007,"Uttaranchal","Residential and others",260.343,105.439,28.712,0.48
+"278",2007,"West Bengal","Industrial Areas",229.88,108.837,62.692,0.548
+"279",2007,"West Bengal","Residential and others",198.381,94.05,55.838,0.479
+"280",2008,"Andhra Pradesh","Industrial Areas",221.469,88.53,28.131,0.416
+"281",2008,"Andhra Pradesh","Residential and others",216.86,87.023,26.025,0.403
+"282",2008,"Andhra Pradesh","Sensitive Areas",136.278,53.033,17.647,0.256
+"283",2008,"Assam","Residential and others",144.063,92.121,13.462,0.294
+"284",2008,"Bihar","Residential and others",300.712,118.763,37.95,0.563
+"285",2008,"Chandigarh","Industrial Areas",257.149,123.221,20.449,0.468
+"286",2008,"Chandigarh","Residential and others",183.159,88.554,15.043,0.336
+"287",2008,"Chhattisgarh","Industrial Areas",316.354,180.077,35.162,0.638
+"288",2008,"Chhattisgarh","Residential and others",236.901,114.26,25.346,0.453
+"289",2008,"Dadra & Nagar Haveli","Industrial Areas",228.375,108.913,17.268,0.414
+"290",2008,"Dadra & Nagar Haveli","Residential and others",153.769,77.769,17.381,0.301
+"291",2008,"Daman & Diu","Industrial Areas",244.019,104.615,17.706,0.427
+"292",2008,"Daman & Diu","Residential and others",178.225,87.275,16.425,0.334
+"293",2008,"Delhi","Industrial Areas",485.41,228.586,62.072,0.949
+"294",2008,"Delhi","Residential and others",411.76,211.098,56.293,0.834
+"295",2008,"Goa","Industrial Areas",155.111,89.722,14.733,0.307
+"296",2008,"Goa","Residential and others",180.4,101.7,16.74,0.352
+"297",2008,"Gujarat","Industrial Areas",229.884,105.072,25.186,0.435
+"298",2008,"Gujarat","Residential and others",164.693,77.015,21.103,0.323
+"299",2008,"Haryana","Industrial Areas",327.645,292.614,29.629,0.754
+"300",2008,"Haryana","Residential and others",221.234,124.617,13.218,0.411
+"301",2008,"Himachal Pradesh","Industrial Areas",279.543,146.045,12.628,0.494
+"302",2008,"Himachal Pradesh","Residential and others",140.992,72.071,13.023,0.267
+"303",2008,"Himachal Pradesh","Sensitive Areas",92.503,49.051,10.705,0.184
+"304",2008,"Jharkhand","Industrial Areas",258.788,166.044,47.629,0.599
+"305",2008,"Jharkhand","Residential and others",267.488,154.438,38.083,0.567
+"306",2008,"Karnataka","Industrial Areas",182.755,77.115,24.569,0.352
+"307",2008,"Karnataka","Residential and others",210.046,81.014,25.643,0.389
+"308",2008,"Karnataka","Sensitive Areas",204.279,66.144,40.463,0.411
+"309",2008,"Kerala","Industrial Areas",87.685,44.036,13.427,0.182
+"310",2008,"Kerala","Residential and others",72.192,50.295,20.123,0.191
+"311",2008,"Madhya Pradesh","Industrial Areas",279.547,161.815,18.326,0.529
+"312",2008,"Madhya Pradesh","Residential and others",222.178,112.836,19.281,0.417
+"313",2008,"Madhya Pradesh","Sensitive Areas",177.951,85.528,13.289,0.323
+"314",2008,"Maharashtra","Industrial Areas",224.442,109.528,36.583,0.468
+"315",2008,"Maharashtra","Residential and others",220.775,98.098,30.353,0.433
+"316",2008,"Maharashtra","Sensitive Areas",177.498,64.162,17.776,0.312
+"317",2008,"Manipur","Residential and others",238.4,84.2,19.155,0.403
+"318",2008,"Meghalaya","Residential and others",85.893,71.538,14.539,0.213
+"319",2008,"Mizoram","Residential and others",80.275,37.304,7.002,0.147
+"320",2008,"Nagaland","Residential and others",128.514,72.384,13.99,0.257
+"321",2008,"Odisha","Industrial Areas",208.631,97.078,20.916,0.39
+"322",2008,"Odisha","Residential and others",170.716,79.143,16.055,0.316
+"323",2008,"Puducherry","Industrial Areas",82.515,52.884,12.985,0.184
+"324",2008,"Puducherry","Residential and others",93.608,44.01,10.942,0.18
+"325",2008,"Punjab","Industrial Areas",245.148,211.983,30.615,0.581
+"326",2008,"Punjab","Residential and others",252.884,195.32,30.517,0.571
+"327",2008,"Rajasthan","Industrial Areas",312.335,139.318,30.985,0.576
+"328",2008,"Rajasthan","Residential and others",305.784,123.34,27.633,0.542
+"329",2008,"Tamil Nadu","Industrial Areas",170.532,81.751,22.09,0.337
+"330",2008,"Tamil Nadu","Residential and others",105.047,59.118,21.638,0.241
+"331",2008,"Uttar Pradesh","Industrial Areas",410.409,193.148,28.459,0.733
+"332",2008,"Uttar Pradesh","Residential and others",415.734,172.46,29.862,0.72
+"333",2008,"Uttar Pradesh","Sensitive Areas",402.573,191.92,27.57,0.719
+"334",2008,"Uttaranchal","Industrial Areas",189.769,117.28,21.446,0.395
+"335",2008,"Uttaranchal","Residential and others",293.897,125.884,28.082,0.536
+"336",2008,"West Bengal","Industrial Areas",249.46,114.147,70.857,0.599
+"337",2008,"West Bengal","Residential and others",212.318,97.364,62.93,0.518
+"338",2009,"Andhra Pradesh","Industrial Areas",226.991,88.295,22.998,0.407
+"339",2009,"Andhra Pradesh","Residential and others",224.136,86.549,22.76,0.401
+"340",2009,"Andhra Pradesh","Sensitive Areas",148.36,55.739,17.777,0.272
+"341",2009,"Assam","Residential and others",175.378,96.983,15.251,0.338
+"342",2009,"Bihar","Residential and others",267.969,98.478,32.854,0.491
+"343",2009,"Chandigarh","Industrial Areas",185.202,93.299,19.485,0.356
+"344",2009,"Chandigarh","Residential and others",157.642,77.825,14.929,0.297
+"345",2009,"Chhattisgarh","Industrial Areas",319.628,174.09,34.237,0.633
+"346",2009,"Chhattisgarh","Residential and others",247.324,120.739,24.415,0.468
+"347",2009,"Dadra & Nagar Haveli","Industrial Areas",312.942,71.232,17.319,0.464
+"348",2009,"Daman & Diu","Industrial Areas",222.642,57.119,18.837,0.356
+"349",2009,"Delhi","Industrial Areas",504.105,233.696,47.791,0.932
+"350",2009,"Delhi","Residential and others",477.905,257.239,51.276,0.94
+"351",2009,"Goa","Industrial Areas",160.859,69.808,13.695,0.288
+"352",2009,"Goa","Residential and others",141.314,75.257,14.889,0.277
+"353",2009,"Gujarat","Industrial Areas",226.149,107.908,26.805,0.439
+"354",2009,"Gujarat","Residential and others",173.046,82.869,22.314,0.342
+"355",2009,"Haryana","Industrial Areas",313.162,253.586,26.632,0.688
+"356",2009,"Himachal Pradesh","Industrial Areas",226.036,120.332,15.515,0.417
+"357",2009,"Himachal Pradesh","Residential and others",149.505,75.413,13.586,0.281
+"358",2009,"Himachal Pradesh","Sensitive Areas",124.024,62.744,10.139,0.23
+"359",2009,"Jammu & Kashmir","Industrial Areas",220.467,114.548,12.743,0.398
+"360",2009,"Jammu & Kashmir","Residential and others",185.031,92.815,11.643,0.333
+"361",2009,"Jharkhand","Industrial Areas",328.048,190.298,45.545,0.693
+"362",2009,"Jharkhand","Residential and others",320.696,176.261,34.764,0.637
+"363",2009,"Karnataka","Industrial Areas",172.582,73.064,26.211,0.342
+"364",2009,"Karnataka","Residential and others",236.219,98.191,24.95,0.433
+"365",2009,"Karnataka","Sensitive Areas",175.071,60.918,37.654,0.366
+"366",2009,"Kerala","Industrial Areas",85.992,47.37,11.785,0.179
+"367",2009,"Kerala","Residential and others",64.901,45.959,19.881,0.178
+"368",2009,"Madhya Pradesh","Industrial Areas",268.618,141.998,17.463,0.493
+"369",2009,"Madhya Pradesh","Residential and others",231.086,116.856,18.809,0.43
+"370",2009,"Madhya Pradesh","Sensitive Areas",136.354,68.146,12.249,0.257
+"371",2009,"Maharashtra","Industrial Areas",244.169,115.756,34.037,0.488
+"372",2009,"Maharashtra","Residential and others",202.664,89.464,29.563,0.402
+"373",2009,"Maharashtra","Sensitive Areas",242.822,90.327,23.795,0.428
+"374",2009,"Meghalaya","Residential and others",100.543,77.86,11.435,0.226
+"375",2009,"Nagaland","Residential and others",144.056,79.489,16.277,0.288
+"376",2009,"Odisha","Industrial Areas",229.903,104.438,22.193,0.425
+"377",2009,"Odisha","Residential and others",168.548,78.559,16.453,0.314
+"378",2009,"Puducherry","Industrial Areas",82,58,11.4,0.184
+"379",2009,"Puducherry","Residential and others",62.81,39.952,9.068,0.137
+"380",2009,"Punjab","Industrial Areas",233.194,201.914,28.832,0.552
+"381",2009,"Punjab","Residential and others",245.918,187.011,29.374,0.552
+"382",2009,"Rajasthan","Industrial Areas",307.942,141.367,28.734,0.567
+"383",2009,"Rajasthan","Residential and others",310.078,123.078,27.44,0.546
+"384",2009,"Tamil Nadu","Industrial Areas",184.522,88.465,20.921,0.356
+"385",2009,"Tamil Nadu","Residential and others",117.341,59.509,21.111,0.253
+"386",2009,"Uttar Pradesh","Industrial Areas",412.161,195.044,29.133,0.739
+"387",2009,"Uttar Pradesh","Residential and others",388.001,171.688,29.094,0.687
+"388",2009,"Uttar Pradesh","Sensitive Areas",405.138,171.456,24.147,0.69
+"389",2009,"West Bengal","Industrial Areas",350.25,172.411,71.017,0.771
+"390",2009,"West Bengal","Residential and others",249.204,126.927,57.782,0.575
+"391",2010,"Andhra Pradesh","Industrial Area",200.26,64.547,14.368,0.327
+"392",2010,"Andhra Pradesh","Residential, Rural and other Areas",200.26,75.287,16.5,0.345
+"393",2010,"Andhra Pradesh","Sensitive Area",200.26,46.946,11.456,0.299
+"394",2010,"Assam","Residential, Rural and other Areas",153.355,81.751,15.233,0.298
+"395",2010,"Bihar","Residential, Rural and other Areas",276.917,165.281,36.123,0.581
+"396",2010,"Chandigarh","Industrial Area",206.056,121.443,19.48,0.409
+"397",2010,"Chandigarh","Residential, Rural and other Areas",206.056,84.684,14.759,0.355
+"398",2010,"Chhattisgarh","Industrial Area",231.291,220.19,34.485,0.587
+"399",2010,"Chhattisgarh","Residential, Rural and other Areas",231.291,126.966,23.272,0.454
+"400",2010,"Dadra & Nagar Haveli","Industrial Area",170.545,39.34,17.617,0.278
+"401",2010,"Daman & Diu","Industrial Area",145.681,35.323,17.656,0.247
+"402",2010,"Goa","Industrial Area",67.254,59.259,20.06,0.196
+"403",2010,"Goa","Residential, Rural and other Areas",67.254,84.724,18.716,0.219
+"404",2010,"Gujarat","Industrial Area",191.568,104.412,25.94,0.396
+"405",2010,"Gujarat","Residential, Rural and other Areas",191.568,79.221,21.322,0.355
+"406",2010,"Haryana","Industrial Area",300.895,204.534,29.588,0.631
+"407",2010,"Haryana","Residential, Rural and other Areas",268.265,133.196,19.763,0.49
+"408",2010,"Himachal Pradesh","Industrial Area",208.576,147.519,17.683,0.434
+"409",2010,"Himachal Pradesh","Residential, Rural and other Areas",208.576,80.71,13.601,0.35
+"410",2010,"Himachal Pradesh","Sensitive Area",208.576,55.309,8.856,0.309
+"411",2010,"Jammu & Kashmir","Industrial Area",196.221,136.122,18.347,0.412
+"412",2010,"Jammu & Kashmir","Residential, Rural and other Areas",196.221,105.005,13.182,0.362
+"413",2010,"Jharkhand","Industrial Area",281.181,206.71,39.828,0.643
+"414",2010,"Jharkhand","Residential, Rural and other Areas",277.941,156.847,39.126,0.584
+"415",2010,"Kerala","Industrial Area",72.537,39.702,8.882,0.147
+"416",2010,"Kerala","Residential, Rural and other Areas",76.915,45.073,16.617,0.18
+"417",2010,"Kerala","Sensitive Area",59.116,50.361,25.855,0.194
+"418",2010,"Madhya Pradesh","Industrial Area",276.65,143.429,16.384,0.5
+"419",2010,"Madhya Pradesh","Residential, Rural and other Areas",243.721,132.855,17.724,0.457
+"420",2010,"Madhya Pradesh","Sensitive Area",145.712,68.797,14.707,0.275
+"421",2010,"Maharashtra","Industrial Area",233.388,110.834,32.087,0.466
+"422",2010,"Maharashtra","Residential, Rural and other Areas",201.324,95.498,30.16,0.409
+"423",2010,"Maharashtra","Sensitive Area",166.72,67.62,19.4,0.309
+"424",2010,"Meghalaya","Industrial Area",78.002,175.386,15.124,0.327
+"425",2010,"Meghalaya","Residential, Rural and other Areas",78.002,76.767,9.315,0.194
+"426",2010,"Mizoram","Residential, Rural and other Areas",86.532,41.596,5.513,0.154
+"427",2010,"Nagaland","Residential, Rural and other Areas",131.288,72.442,6.687,0.238
+"428",2010,"Odisha","Industrial Area",210.815,107.271,21.919,0.406
+"429",2010,"Odisha","Residential, Rural and other Areas",165.976,77.395,16.302,0.309
+"430",2010,"Puducherry","Industrial Area",70.374,46.965,14.853,0.17
+"431",2010,"Puducherry","Residential, Rural and other Areas",52.577,33.271,12.263,0.129
+"432",2010,"Punjab","Industrial Area",243.757,204.256,27.871,0.564
+"433",2010,"Punjab","Residential, Rural and other Areas",238.208,178.013,26.595,0.526
+"434",2010,"Rajasthan","Industrial Area",384.3,185.416,29.667,0.699
+"435",2010,"Rajasthan","Residential, Rural and other Areas",356.177,152.599,30.037,0.635
+"436",2010,"Tamil Nadu","Industrial Area",176.262,86.498,20.19,0.342
+"437",2010,"Tamil Nadu","Residential, Rural and other Areas",115.354,55.862,19.178,0.241
+"438",2010,"Uttar Pradesh","Industrial Area",408.639,190.73,31.867,0.738
+"439",2010,"Uttar Pradesh","Residential, Rural and other Areas",380.072,178.57,29.84,0.688
+"440",2010,"Uttarakhand","Industrial Area",273.109,121.395,27.736,0.508
+"441",2010,"Uttarakhand","Residential, Rural and other Areas",369.308,169.425,29.669,0.668
+"442",2010,"West Bengal","Industrial Area",249.163,117.1,65.592,0.587
+"443",2010,"West Bengal","Residential, Rural and other Areas",197.18,93.378,62.733,0.497
+"444",2011,"Andhra Pradesh","Industrial Area",238.487,92.783,31.504,0.448
+"445",2011,"Andhra Pradesh","Residential, Rural and other Areas",211.63,80.848,24.12,0.385
+"446",2011,"Andhra Pradesh","Sensitive Area",130.215,53.684,13.542,0.237
+"447",2011,"Bihar","Residential, Rural and other Areas",276.917,157.518,35.772,0.571
+"448",2011,"Chandigarh","Industrial Area",270.575,135.021,19.811,0.493
+"449",2011,"Chandigarh","Residential, Rural and other Areas",183.584,93.006,14.897,0.341
+"450",2011,"Chhattisgarh","Industrial Area",231.291,234.09,34.363,0.602
+"451",2011,"Chhattisgarh","Residential, Rural and other Areas",231.291,110.027,21.997,0.432
+"452",2011,"Dadra & Nagar Haveli","Industrial Area",42.381,72.735,19.355,0.181
+"453",2011,"Daman & Diu","Industrial Area",39.351,69.267,19.612,0.175
+"454",2011,"Delhi","Industrial Area",399.402,239.979,60.86,0.865
+"455",2011,"Delhi","Residential, Rural and other Areas",399.402,212.708,57.262,0.825
+"456",2011,"Goa","Industrial Area",67.254,65.318,18.624,0.197
+"457",2011,"Goa","Residential, Rural and other Areas",39.815,100.803,16.051,0.199
+"458",2011,"Gujarat","Industrial Area",191.568,102.799,28.916,0.403
+"459",2011,"Gujarat","Residential, Rural and other Areas",191.568,79.918,22.941,0.36
+"460",2011,"Haryana","Industrial Area",268.265,187.296,42.29,0.615
+"461",2011,"Haryana","Residential, Rural and other Areas",268.265,122.634,20.671,0.481
+"462",2011,"Himachal Pradesh","Industrial Area",208.576,130.166,14.623,0.406
+"463",2011,"Himachal Pradesh","Residential, Rural and other Areas",208.576,77.376,11.777,0.341
+"464",2011,"Himachal Pradesh","Sensitive Area",208.576,49.693,8.684,0.303
+"465",2011,"Jammu & Kashmir","Industrial Area",196.221,128.076,12.485,0.385
+"466",2011,"Jammu & Kashmir","Residential, Rural and other Areas",196.221,96.636,11.591,0.349
+"467",2011,"Jharkhand","Industrial Area",277.941,198.258,39.486,0.63
+"468",2011,"Jharkhand","Residential, Rural and other Areas",277.941,166.832,35.426,0.583
+"469",2011,"Karnataka","Industrial Area",168.002,79.099,19.937,0.325
+"470",2011,"Karnataka","Residential, Rural and other Areas",168.002,70.378,23.25,0.325
+"471",2011,"Karnataka","Sensitive Area",168.002,47.481,18.641,0.287
+"472",2011,"Kerala","Industrial Area",71.085,38.997,9.782,0.147
+"473",2011,"Kerala","Residential, Rural and other Areas",76.78,44.441,16.955,0.18
+"474",2011,"Kerala","Sensitive Area",84.42,51.769,19.315,0.204
+"475",2011,"Madhya Pradesh","Industrial Area",220.47,129.089,21.257,0.439
+"476",2011,"Madhya Pradesh","Residential, Rural and other Areas",212.025,138.634,18.798,0.433
+"477",2011,"Madhya Pradesh","Sensitive Area",199,98.5,17.15,0.372
+"478",2011,"Maharashtra","Industrial Area",205.256,123.77,34.032,0.455
+"479",2011,"Maharashtra","Residential, Rural and other Areas",205.256,105.746,33.536,0.434
+"480",2011,"Maharashtra","Sensitive Area",205.256,81.087,29.55,0.395
+"481",2011,"Meghalaya","Industrial Area",78.002,177.919,17.071,0.334
+"482",2011,"Meghalaya","Residential, Rural and other Areas",78.002,66.797,8.528,0.181
+"483",2011,"Mizoram","Residential, Rural and other Areas",87.833,39.522,5.541,0.153
+"484",2011,"Nagaland","Residential, Rural and other Areas",133.311,82.341,6.142,0.249
+"485",2011,"Odisha","Residential, Rural and other Areas",152.482,92.935,18.59,0.318
+"486",2011,"Puducherry","Industrial Area",95.598,50.211,16.948,0.207
+"487",2011,"Puducherry","Residential, Rural and other Areas",95.598,38.169,14.973,0.188
+"488",2011,"Punjab","Industrial Area",244.919,173.126,26.633,0.528
+"489",2011,"Punjab","Residential, Rural and other Areas",244.805,157.32,25.569,0.508
+"490",2011,"Rajasthan","Industrial Area",300.735,183.888,29.413,0.607
+"491",2011,"Rajasthan","Residential, Rural and other Areas",300.735,151.066,29.746,0.573
+"492",2011,"Tamil Nadu","Industrial Area",126.729,100.273,24.75,0.318
+"493",2011,"Tamil Nadu","Residential, Rural and other Areas",126.729,61.492,20.354,0.263
+"494",2011,"Uttar Pradesh","Industrial Area",372.664,172.603,31.687,0.68
+"495",2011,"Uttar Pradesh","Residential, Rural and other Areas",361.089,158.28,29.843,0.646
+"496",2011,"Uttar Pradesh","Sensitive Area",372.664,154.919,23.087,0.634
+"497",2011,"Uttarakhand","Industrial Area",306.759,141.698,25.376,0.558
+"498",2011,"Uttarakhand","Residential, Rural and other Areas",306.759,169.148,25.728,0.589
+"499",2011,"West Bengal","Industrial Area",233.507,121.528,58.119,0.554
+"500",2011,"West Bengal","Residential, Rural and other Areas",233.507,110.208,54.993,0.532
+"501",2012,"Andhra Pradesh","Industrial Area",200.26,86.401,20.333,0.368
+"502",2012,"Andhra Pradesh","Residential, Rural and other Areas",200.26,80.611,15.392,0.347
+"503",2012,"Andhra Pradesh","Sensitive Area",200.26,57.115,13.777,0.317
+"504",2012,"Assam","Residential, Rural and other Areas",153.355,82.075,13.966,0.294
+"505",2012,"Bihar","Residential, Rural and other Areas",276.917,161.664,34.256,0.572
+"506",2012,"Chandigarh","Industrial Area",206.056,131.675,21.225,0.425
+"507",2012,"Chandigarh","Residential, Rural and other Areas",206.056,104.515,18.778,0.388
+"508",2012,"Chhattisgarh","Industrial Area",231.291,152.587,30.772,0.503
+"509",2012,"Chhattisgarh","Residential, Rural and other Areas",231.291,92.492,19.901,0.407
+"510",2012,"Dadra & Nagar Haveli","Industrial Area",170.545,76.537,20.181,0.325
+"511",2012,"Daman & Diu","Industrial Area",145.681,73.749,20.147,0.295
+"512",2012,"Delhi","Industrial Area",399.402,268.438,79.802,0.952
+"513",2012,"Delhi","Residential, Rural and other Areas",399.402,220.979,82.625,0.909
+"514",2012,"Goa","Industrial Area",67.254,80.771,19.853,0.218
+"515",2012,"Goa","Residential, Rural and other Areas",67.254,81.371,15.114,0.204
+"516",2012,"Gujarat","Industrial Area",191.568,110.112,29.92,0.414
+"517",2012,"Gujarat","Residential, Rural and other Areas",191.568,85.711,24.217,0.37
+"518",2012,"Haryana","Industrial Area",268.265,169.832,35.793,0.576
+"519",2012,"Haryana","Residential, Rural and other Areas",268.265,153.394,22.967,0.521
+"520",2012,"Himachal Pradesh","Industrial Area",208.576,110.018,15.843,0.388
+"521",2012,"Himachal Pradesh","Residential, Rural and other Areas",208.576,88.39,13.508,0.358
+"522",2012,"Himachal Pradesh","Sensitive Area",208.576,52.581,9.946,0.309
+"523",2012,"Jammu & Kashmir","Industrial Area",196.221,135.08,14.945,0.4
+"524",2012,"Jammu & Kashmir","Residential, Rural and other Areas",196.221,111.482,10.965,0.363
+"525",2012,"Jharkhand","Industrial Area",277.941,177.15,43.347,0.619
+"526",2012,"Jharkhand","Residential, Rural and other Areas",277.941,166.912,37.109,0.588
+"527",2012,"Karnataka","Industrial Area",168.002,100.854,23.525,0.359
+"528",2012,"Karnataka","Residential, Rural and other Areas",168.002,85.533,25.363,0.348
+"529",2012,"Karnataka","Sensitive Area",168.002,68.154,20.153,0.313
+"530",2012,"Kerala","Industrial Area",84.42,57.629,9.491,0.181
+"531",2012,"Kerala","Residential, Rural and other Areas",84.42,53.707,13.754,0.189
+"532",2012,"Kerala","Sensitive Area",84.42,42.004,14.601,0.179
+"533",2012,"Madhya Pradesh","Industrial Area",210.068,124.785,20.221,0.421
+"534",2012,"Madhya Pradesh","Residential, Rural and other Areas",210.068,129.837,22.026,0.431
+"535",2012,"Madhya Pradesh","Sensitive Area",210.068,53.653,12.384,0.321
+"536",2012,"Maharashtra","Industrial Area",205.256,115.689,38.339,0.459
+"537",2012,"Maharashtra","Residential, Rural and other Areas",205.256,98.775,30.777,0.418
+"538",2012,"Maharashtra","Sensitive Area",205.256,75.942,29.875,0.39
+"539",2012,"Meghalaya","Industrial Area",78.002,137.777,20.096,0.295
+"540",2012,"Meghalaya","Residential, Rural and other Areas",78.002,56.756,8.747,0.17
+"541",2012,"Mizoram","Residential, Rural and other Areas",87.833,54.326,7.096,0.174
+"542",2012,"Odisha","Industrial Area",167.61,99.093,20.192,0.346
+"543",2012,"Odisha","Residential, Rural and other Areas",167.61,79.221,15.623,0.311
+"544",2012,"Puducherry","Industrial Area",95.598,50.432,15.006,0.202
+"545",2012,"Puducherry","Residential, Rural and other Areas",95.598,37.677,13.501,0.184
+"546",2012,"Punjab","Industrial Area",244.919,179.195,28.464,0.54
+"547",2012,"Punjab","Residential, Rural and other Areas",244.919,148.534,26.001,0.499
+"548",2012,"Rajasthan","Industrial Area",300.735,176.074,35.927,0.618
+"549",2012,"Rajasthan","Residential, Rural and other Areas",300.735,160.111,38.432,0.608
+"550",2012,"Tamil Nadu","Industrial Area",126.729,83.17,21.892,0.291
+"551",2012,"Tamil Nadu","Residential, Rural and other Areas",126.729,65.615,19.903,0.266
+"552",2012,"Uttar Pradesh","Industrial Area",372.664,183.812,32.413,0.694
+"553",2012,"Uttar Pradesh","Residential, Rural and other Areas",372.664,192.911,28.833,0.692
+"554",2012,"Uttarakhand","Industrial Area",306.759,148.564,31.407,0.584
+"555",2012,"Uttarakhand","Residential, Rural and other Areas",306.759,191.409,28.363,0.621
+"556",2012,"West Bengal","Industrial Area",233.507,111.914,59.523,0.549
+"557",2012,"West Bengal","Residential, Rural and other Areas",233.507,100.202,49.674,0.511
+"558",2013,"Andhra Pradesh","Industrial Area",200.26,81.293,19.647,0.361
+"559",2013,"Andhra Pradesh","Residential, Rural and other Areas",200.26,77.884,17.497,0.351
+"560",2013,"Andhra Pradesh","Sensitive Area",200.26,55.921,12.208,0.311
+"561",2013,"Assam","Residential, Rural and other Areas",153.355,124.681,15.437,0.344
+"562",2013,"Chandigarh","Industrial Area",206.056,124.626,27.993,0.437
+"563",2013,"Chandigarh","Residential, Rural and other Areas",206.056,95.659,23.24,0.392
+"564",2013,"Chhattisgarh","Industrial Area",231.291,223.507,34.607,0.591
+"565",2013,"Chhattisgarh","Residential, Rural and other Areas",231.291,96.82,20.273,0.413
+"566",2013,"Delhi","Industrial Area",399.402,291.738,87.925,1
+"567",2013,"Delhi","Residential, Rural and other Areas",399.402,201.602,90.492,0.911
+"568",2013,"Goa","Industrial Area",38.012,54.633,11.821,0.135
+"569",2013,"Goa","Residential, Rural and other Areas",33.226,53.123,11.949,0.129
+"570",2013,"Gujarat","Industrial Area",34.907,96.101,20.298,0.202
+"571",2013,"Gujarat","Residential, Rural and other Areas",27.921,80.456,17.907,0.17
+"572",2013,"Haryana","Industrial Area",268.265,192.036,29.196,0.581
+"573",2013,"Haryana","Residential, Rural and other Areas",268.265,189.246,22.702,0.559
+"574",2013,"Himachal Pradesh","Industrial Area",208.576,124.166,16.031,0.404
+"575",2013,"Himachal Pradesh","Residential, Rural and other Areas",208.576,79.427,13.721,0.349
+"576",2013,"Himachal Pradesh","Sensitive Area",208.576,46.159,9.069,0.3
+"577",2013,"Jammu & Kashmir","Industrial Area",196.221,126.196,6.347,0.366
+"578",2013,"Jammu & Kashmir","Residential, Rural and other Areas",196.221,113.85,4.38,0.347
+"579",2013,"Jharkhand","Industrial Area",277.941,154.56,42.052,0.59
+"580",2013,"Jharkhand","Residential, Rural and other Areas",277.941,148.261,38.363,0.572
+"581",2013,"Karnataka","Industrial Area",168.002,84.621,17.419,0.323
+"582",2013,"Karnataka","Residential, Rural and other Areas",168.002,79.763,17.813,0.319
+"583",2013,"Karnataka","Sensitive Area",168.002,82.628,21.119,0.332
+"584",2013,"Kerala","Industrial Area",84.42,58.47,9.522,0.182
+"585",2013,"Kerala","Residential, Rural and other Areas",84.42,53.764,12.6,0.186
+"586",2013,"Kerala","Sensitive Area",84.42,46.973,13.177,0.18
+"587",2013,"Madhya Pradesh","Industrial Area",217.164,126.28,20.76,0.431
+"588",2013,"Madhya Pradesh","Residential, Rural and other Areas",210.121,150.643,22.443,0.454
+"589",2013,"Madhya Pradesh","Sensitive Area",210.068,66.119,14.34,0.34
+"590",2013,"Maharashtra","Industrial Area",205.256,108.074,34.24,0.439
+"591",2013,"Maharashtra","Residential, Rural and other Areas",205.256,96.76,30.638,0.416
+"592",2013,"Maharashtra","Sensitive Area",205.256,80.816,35.571,0.412
+"593",2013,"Meghalaya","Industrial Area",78.002,122.019,14.602,0.26
+"594",2013,"Meghalaya","Residential, Rural and other Areas",78.002,46.673,8.832,0.16
+"595",2013,"Mizoram","Residential, Rural and other Areas",87.833,48.669,6.701,0.166
+"596",2013,"Nagaland","Residential, Rural and other Areas",133.311,92.786,5.244,0.258
+"597",2013,"Odisha","Industrial Area",167.61,95.26,20.8,0.344
+"598",2013,"Odisha","Residential, Rural and other Areas",167.61,83.157,15.887,0.316
+"599",2013,"Puducherry","Industrial Area",95.598,45.851,15.472,0.198
+"600",2013,"Puducherry","Residential, Rural and other Areas",95.598,41.372,13.056,0.186
+"601",2013,"Punjab","Industrial Area",244.919,162.688,25.778,0.514
+"602",2013,"Punjab","Residential, Rural and other Areas",244.919,151.286,24.588,0.498
+"603",2013,"Rajasthan","Industrial Area",300.735,203.56,29.492,0.628
+"604",2013,"Rajasthan","Residential, Rural and other Areas",300.735,153.656,30.689,0.578
+"605",2013,"Tamil Nadu","Industrial Area",126.729,62.094,20.615,0.265
+"606",2013,"Tamil Nadu","Residential, Rural and other Areas",126.729,75.145,22.099,0.283
+"607",2013,"Uttar Pradesh","Industrial Area",374.758,196.236,29.243,0.7
+"608",2013,"Uttar Pradesh","Residential, Rural and other Areas",374.681,181.378,26.568,0.676
+"609",2013,"Uttar Pradesh","Sensitive Area",372.664,172.377,22.636,0.651
+"610",2013,"Uttarakhand","Industrial Area",306.759,136.55,25.678,0.554
+"611",2013,"Uttarakhand","Residential, Rural and other Areas",306.759,145.96,26.717,0.567
+"612",2013,"West Bengal","Industrial Area",213.508,165.414,67.785,0.607
+"613",2013,"West Bengal","Residential, Rural and other Areas",215.572,150.926,60.516,0.572
+"614",2014,"Andhra Pradesh","Industrial Area",200.26,68.617,18.05,0.343
+"615",2014,"Andhra Pradesh","Residential, Rural and other Areas",200.26,83.363,20.199,0.364
+"616",2014,"Andhra Pradesh","Sensitive Area",200.26,59.972,15.144,0.324
+"617",2014,"Assam","Residential, Rural and other Areas",153.355,80.753,14.055,0.293
+"618",2014,"Chandigarh","Industrial Area",206.056,115.782,25.599,0.421
+"619",2014,"Chandigarh","Residential, Rural and other Areas",206.056,84.916,20.228,0.372
+"620",2014,"Chhattisgarh","Industrial Area",231.291,208.533,33.329,0.571
+"621",2014,"Chhattisgarh","Residential, Rural and other Areas",231.291,88.496,19.219,0.401
+"622",2014,"Delhi","Industrial Area",399.402,265.604,72.154,0.926
+"623",2014,"Delhi","Residential, Rural and other Areas",399.402,191.865,59.081,0.808
+"624",2014,"Goa","Industrial Area",67.254,58.552,7.507,0.157
+"625",2014,"Goa","Residential, Rural and other Areas",67.254,50.756,7.561,0.149
+"626",2014,"Gujarat","Industrial Area",191.568,89.672,20.472,0.364
+"627",2014,"Gujarat","Residential, Rural and other Areas",191.568,85.374,19.922,0.357
+"628",2014,"Haryana","Industrial Area",268.265,167.566,26.142,0.546
+"629",2014,"Haryana","Residential, Rural and other Areas",268.265,189.204,22.558,0.558
+"630",2014,"Himachal Pradesh","Industrial Area",208.576,125.311,14.778,0.402
+"631",2014,"Himachal Pradesh","Residential, Rural and other Areas",208.576,78.537,14.106,0.35
+"632",2014,"Himachal Pradesh","Sensitive Area",208.576,44.95,9.994,0.301
+"633",2014,"Jammu & Kashmir","Industrial Area",196.221,129.542,13.672,0.39
+"634",2014,"Jammu & Kashmir","Residential, Rural and other Areas",196.221,119.809,12.154,0.375
+"635",2014,"Jharkhand","Industrial Area",277.941,178.583,36.676,0.599
+"636",2014,"Jharkhand","Residential, Rural and other Areas",277.941,123.943,35.119,0.536
+"637",2014,"Karnataka","Industrial Area",168.002,85.504,17.527,0.324
+"638",2014,"Karnataka","Residential, Rural and other Areas",168.002,93.276,19.161,0.338
+"639",2014,"Karnataka","Sensitive Area",168.002,81.407,20.1,0.328
+"640",2014,"Kerala","Industrial Area",84.42,51.363,11.373,0.18
+"641",2014,"Kerala","Residential, Rural and other Areas",84.42,51.993,13.392,0.186
+"642",2014,"Kerala","Sensitive Area",84.42,42.748,13.804,0.177
+"643",2014,"Madhya Pradesh","Industrial Area",210.068,133.892,18.404,0.425
+"644",2014,"Madhya Pradesh","Residential, Rural and other Areas",210.068,118.742,19.086,0.41
+"645",2014,"Madhya Pradesh","Sensitive Area",210.068,84.779,13.916,0.359
+"646",2014,"Maharashtra","Industrial Area",205.256,124.265,40.412,0.475
+"647",2014,"Maharashtra","Residential, Rural and other Areas",205.256,98.714,33.798,0.427
+"648",2014,"Maharashtra","Sensitive Area",205.256,76.845,33.732,0.403
+"649",2014,"Meghalaya","Industrial Area",78.002,136.343,20.314,0.293
+"650",2014,"Meghalaya","Residential, Rural and other Areas",78.002,46.557,8.955,0.16
+"651",2014,"Mizoram","Residential, Rural and other Areas",87.833,43.07,6.189,0.159
+"652",2014,"Odisha","Industrial Area",167.61,101.09,18.447,0.343
+"653",2014,"Odisha","Residential, Rural and other Areas",167.61,85.351,17.922,0.324
+"654",2014,"Puducherry","Industrial Area",95.598,42.285,13.292,0.188
+"655",2014,"Puducherry","Residential, Rural and other Areas",95.598,38.777,11.898,0.18
+"656",2014,"Punjab","Industrial Area",244.919,133.271,23.922,0.477
+"657",2014,"Punjab","Residential, Rural and other Areas",244.919,130.752,24.018,0.475
+"658",2014,"Rajasthan","Industrial Area",300.735,184.56,33.839,0.621
+"659",2014,"Rajasthan","Residential, Rural and other Areas",300.735,146.246,34.962,0.583
+"660",2014,"Tamil Nadu","Industrial Area",126.729,51.552,21.673,0.256
+"661",2014,"Tamil Nadu","Residential, Rural and other Areas",126.729,67.249,22.334,0.275
+"662",2014,"Uttar Pradesh","Industrial Area",372.664,172.191,28.682,0.67
+"663",2014,"Uttar Pradesh","Residential, Rural and other Areas",372.664,185.966,28.203,0.683
+"664",2014,"Uttar Pradesh","Sensitive Area",372.664,169.899,20.244,0.642
+"665",2014,"West Bengal","Industrial Area",233.507,119.191,60.265,0.556
+"666",2014,"West Bengal","Residential, Rural and other Areas",233.507,111.356,54.909,0.532
+"667",2015,"Andhra Pradesh","Industrial Area",200.26,69.06,20.292,0.349
+"668",2015,"Andhra Pradesh","Residential, Rural and other Areas",200.26,78.626,22.472,0.366
+"669",2015,"Andhra Pradesh","Sensitive Area",200.26,58.736,13.937,0.319
+"670",2015,"Assam","Residential, Rural and other Areas",153.355,94.132,14.212,0.308
+"671",2015,"Chandigarh","Industrial Area",206.056,95.541,30.959,0.415
+"672",2015,"Chandigarh","Residential, Rural and other Areas",206.056,82.961,24.055,0.381
+"673",2015,"Chhattisgarh","Industrial Area",231.291,180.903,32.963,0.54
+"674",2015,"Chhattisgarh","Residential, Rural and other Areas",231.291,96.216,20.271,0.412
+"675",2015,"Dadra & Nagar Haveli","Industrial Area",170.545,88.674,26.907,0.359
+"676",2015,"Daman & Diu","Industrial Area",145.681,83.068,24.955,0.32
+"677",2015,"Delhi","Industrial Area",399.402,257.255,71.66,0.915
+"678",2015,"Delhi","Residential, Rural and other Areas",399.402,198.897,64.842,0.833
+"679",2015,"Goa","Industrial Area",67.254,62.349,10.591,0.171
+"680",2015,"Goa","Residential, Rural and other Areas",67.254,53.365,9.22,0.157
+"681",2015,"Gujarat","Industrial Area",191.568,90.108,20.817,0.365
+"682",2015,"Gujarat","Residential, Rural and other Areas",191.568,85.079,20.132,0.357
+"683",2015,"Gujarat","RIRUO",191.568,87.154,21.567,0.364
+"684",2015,"Haryana","Industrial Area",268.265,149.861,83.265,0.695
+"685",2015,"Haryana","Residential, Rural and other Areas",268.265,104.591,64.818,0.592
+"686",2015,"Himachal Pradesh","Industrial Area",208.576,113.779,12.737,0.383
+"687",2015,"Himachal Pradesh","Residential, Rural and other Areas",208.576,72.5,13.209,0.34
+"688",2015,"Himachal Pradesh","Sensitive Area",208.576,41.384,10.47,0.299
+"689",2015,"Jammu & Kashmir","Industrial Area",196.221,125.798,17.854,0.398
+"690",2015,"Jammu & Kashmir","Residential, Rural and other Areas",196.221,125.033,16.046,0.392
+"691",2015,"Jharkhand","Industrial Area",277.941,163.302,37.69,0.586
+"692",2015,"Jharkhand","Residential, Rural and other Areas",277.941,153.94,38.63,0.579
+"693",2015,"Karnataka","Industrial Area",168.002,81.102,14.812,0.311
+"694",2015,"Karnataka","Residential, Rural and other Areas",168.002,95.105,17.65,0.335
+"695",2015,"Karnataka","Sensitive Area",168.002,107.833,22.366,0.362
+"696",2015,"Kerala","Industrial Area",84.42,44.083,14.81,0.182
+"697",2015,"Kerala","Residential, Rural and other Areas",84.42,47.637,13.727,0.182
+"698",2015,"Kerala","Sensitive Area",84.42,45.579,14.781,0.183
+"699",2015,"Madhya Pradesh","Industrial Area",210.068,108.624,19.523,0.401
+"700",2015,"Madhya Pradesh","Residential, Rural and other Areas",210.068,108.427,20.057,0.402
+"701",2015,"Madhya Pradesh","Sensitive Area",210.068,84.024,13.77,0.357
+"702",2015,"Maharashtra","Industrial Area",205.256,108.494,35.927,0.444
+"703",2015,"Maharashtra","Residential, Rural and other Areas",205.256,98.214,33.427,0.426
+"704",2015,"Maharashtra","Sensitive Area",205.256,72.081,34.545,0.4
+"705",2015,"Meghalaya","Industrial Area",78.002,102.89,13.39,0.235
+"706",2015,"Meghalaya","Residential, Rural and other Areas",78.002,41.502,9.682,0.157
+"707",2015,"Mizoram","Residential, Rural and other Areas",87.833,39.942,6.685,0.157
+"708",2015,"Nagaland","Residential, Rural and other Areas",133.311,107.812,6.825,0.279
+"709",2015,"Odisha","Industrial Area",167.61,97.198,17.515,0.336
+"710",2015,"Odisha","Residential, Rural and other Areas",167.61,85.309,17.761,0.324
+"711",2015,"Puducherry","Industrial Area",95.598,37.311,11.673,0.178
+"712",2015,"Puducherry","Residential, Rural and other Areas",95.598,33.658,9.949,0.169
+"713",2015,"Punjab","Industrial Area",244.919,129.866,23.79,0.473
+"714",2015,"Punjab","Residential, Rural and other Areas",244.919,111.865,21.346,0.446
+"715",2015,"Rajasthan","Industrial Area",300.735,171.529,30.275,0.596
+"716",2015,"Rajasthan","Residential, Rural and other Areas",300.735,151.117,30.291,0.574
+"717",2015,"Tamil Nadu","Industrial Area",126.729,52.055,21.199,0.255
+"718",2015,"Tamil Nadu","Residential, Rural and other Areas",126.729,65.69,21.391,0.271
+"719",2015,"Uttar Pradesh","Industrial Area",372.664,188.144,30.406,0.693
+"720",2015,"Uttar Pradesh","Residential, Rural and other Areas",372.664,176.896,27.631,0.672
+"721",2015,"Uttar Pradesh","Sensitive Area",372.664,176.421,22.337,0.655
+"722",2015,"Uttarakhand","Industrial Area",306.759,130.963,27.302,0.553
+"723",2015,"Uttarakhand","Residential, Rural and other Areas",306.759,148.005,28.27,0.574
+"724",2015,"West Bengal","Industrial Area",233.507,107.961,52.964,0.523
+"725",2015,"West Bengal","Residential, Rural and other Areas",233.507,98.158,47.621,0.496
+"726",2015,"West Bengal","RIRUO",233.507,112.988,37.593,0.483
